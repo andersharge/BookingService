@@ -1,0 +1,28 @@
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.deps.json
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.runtimeconfig.json
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.runtimeconfig.dev.json
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.dll
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.pdb
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.csproj.CoreCompileInputs.cache
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorAssemblyInfo.cache
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorAssemblyInfo.cs
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.AssemblyInfoInputs.cache
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.AssemblyInfo.cs
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorTargetAssemblyInfo.cache
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.dll
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.pdb
+C:\Users\S5362B\source\repos\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.csprojAssemblyReference.cache
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.deps.json
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.runtimeconfig.json
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.runtimeconfig.dev.json
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.dll
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.pdb
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.csprojAssemblyReference.cache
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.csproj.CoreCompileInputs.cache
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorAssemblyInfo.cache
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorAssemblyInfo.cs
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.AssemblyInfoInputs.cache
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.AssemblyInfo.cs
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorTargetAssemblyInfo.cache
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.dll
+C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.pdb

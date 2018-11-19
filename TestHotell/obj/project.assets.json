@@ -12557,11 +12557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\TestHotell\\TestHotell.csproj",
+      "projectUniqueName": "C:\\Training\\BookingService\\TestHotell\\TestHotell.csproj",
       "projectName": "TestHotell",
-      "projectPath": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\TestHotell\\TestHotell.csproj",
+      "projectPath": "C:\\Training\\BookingService\\TestHotell\\TestHotell.csproj",
       "packagesPath": "C:\\Users\\S5362B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\TestHotell\\obj\\",
+      "outputPath": "C:\\Training\\BookingService\\TestHotell\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -26,3 +26,17 @@ C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreap
 C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorTargetAssemblyInfo.cache
 C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.dll
 C:\Users\S5362B\Desktop\New folder (4)\TestHotell\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.pdb
+C:\Training\BookingService\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.deps.json
+C:\Training\BookingService\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.runtimeconfig.json
+C:\Training\BookingService\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.runtimeconfig.dev.json
+C:\Training\BookingService\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.dll
+C:\Training\BookingService\TestHotell\bin\Debug\netcoreapp2.1\TestHotell.pdb
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.csprojAssemblyReference.cache
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.csproj.CoreCompileInputs.cache
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorAssemblyInfo.cache
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorAssemblyInfo.cs
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.AssemblyInfoInputs.cache
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.AssemblyInfo.cs
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.RazorTargetAssemblyInfo.cache
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.dll
+C:\Training\BookingService\TestHotell\obj\Debug\netcoreapp2.1\TestHotell.pdb

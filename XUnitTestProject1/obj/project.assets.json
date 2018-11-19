@@ -8533,11 +8533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Training\\BookingService\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectPath": "C:\\Training\\BookingService\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\S5362B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Training\\BookingService\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8559,8 +8559,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\TestHotell\\TestHotell.csproj": {
-              "projectPath": "C:\\Users\\S5362B\\Desktop\\New folder (4)\\TestHotell\\TestHotell\\TestHotell.csproj"
+            "C:\\Training\\BookingService\\TestHotell\\TestHotell.csproj": {
+              "projectPath": "C:\\Training\\BookingService\\TestHotell\\TestHotell.csproj"
             }
           }
         }

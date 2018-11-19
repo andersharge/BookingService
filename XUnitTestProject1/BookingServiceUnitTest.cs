@@ -97,11 +97,11 @@ namespace XUnitTestProject1
         Title = ""
       };
 
-     _mockiBookingRepository.Setup(x => x.ReEnterBookingInformation(It.IsAny<string>())).Throws<Exception>();
+     _mockiBookingRepository.Setup(x => x.ReEnterGuestInformation(It.IsAny<string>())).Throws<Exception>();
       
       _sut.AddGuestToBooking(Guid.NewGuid(), addedGuest);
       
-      _mockiBookingRepository.Verify(x=>x.ReEnterBookingInformation(It.IsAny<string>()),Times.AtLeastOnce());
+      _mockiBookingRepository.Verify(x=>x.ReEnterGuestInformation(It.IsAny<string>()),Times.AtLeastOnce());
       _mockiBookingRepository.Verify(x => x.Save(It.IsAny<BookingService.Booking>()
         ,It.IsAny<BookingService.Guest>()), Times.Never);
     }
@@ -134,11 +134,11 @@ namespace XUnitTestProject1
         Title = "Herr"
       };
 
-      _mockiBookingRepository.Setup(x => x.ReEnterBookingInformation(It.IsAny<string>())).Throws<Exception>();
+      _mockiBookingRepository.Setup(x => x.ReEnterGuestInformation(It.IsAny<string>())).Throws<Exception>();
 
       _sut.AddGuestToBooking(Guid.NewGuid(), addedGuest);
 
-      _mockiBookingRepository.Verify(x => x.ReEnterBookingInformation(It.IsAny<string>()), Times.Never);
+      _mockiBookingRepository.Verify(x => x.ReEnterGuestInformation(It.IsAny<string>()), Times.Never);
       _mockiBookingRepository.Verify(x => x.Save(It.IsAny<BookingService.Booking>()
         , It.IsAny<BookingService.Guest>()), Times.AtLeastOnce);
     }
@@ -171,11 +171,11 @@ namespace XUnitTestProject1
         Title = "SpringPojke"
       };
 
-      _mockiBookingRepository.Setup(x => x.ReEnterBookingInformation(It.IsAny<string>())).Throws<Exception>();
+      _mockiBookingRepository.Setup(x => x.ReEnterGuestInformation(It.IsAny<string>())).Throws<Exception>();
 
       _sut.AddGuestToBooking(Guid.NewGuid(), addedGuest);
 
-      _mockiBookingRepository.Verify(x => x.ReEnterBookingInformation(It.IsAny<string>()), Times.Never);
+      _mockiBookingRepository.Verify(x => x.ReEnterGuestInformation(It.IsAny<string>()), Times.Never);
       _mockiBookingRepository.Verify(x => x.Save(It.IsAny<BookingService.Booking>()
         , It.IsAny<BookingService.Guest>()), Times.AtLeastOnce);
     }
@@ -214,11 +214,11 @@ namespace XUnitTestProject1
         Title = "SpringPojke"
       };
 
-      _mockiBookingRepository.Setup(x => x.ReEnterBookingInformation(It.IsAny<string>())).Throws<Exception>();
+      _mockiBookingRepository.Setup(x => x.ReEnterGuestInformation(It.IsAny<string>())).Throws<Exception>();
 
       _sut.AddGuestToBooking(Guid.NewGuid(), addedGuest);
 
-      _mockiBookingRepository.Verify(x => x.ReEnterBookingInformation(It.IsAny<string>()), Times.AtLeastOnce);
+      _mockiBookingRepository.Verify(x => x.ReEnterGuestInformation(It.IsAny<string>()), Times.AtLeastOnce);
       _mockiBookingRepository.Verify(x => x.Save(It.IsAny<BookingService.Booking>()
         , It.IsAny<BookingService.Guest>()), Times.Never);
     }
@@ -258,11 +258,11 @@ namespace XUnitTestProject1
         Title = "SpringPojke"
       };
 
-      _mockiBookingRepository.Setup(x => x.ReEnterBookingInformation(It.IsAny<string>())).Throws<Exception>();
+      _mockiBookingRepository.Setup(x => x.ReEnterGuestInformation(It.IsAny<string>())).Throws<Exception>();
 
       _sut.AddGuestToBooking(Guid.NewGuid(), addedGuest);
 
-      _mockiBookingRepository.Verify(x => x.ReEnterBookingInformation(It.IsAny<string>()), Times.Never);
+      _mockiBookingRepository.Verify(x => x.ReEnterGuestInformation(It.IsAny<string>()), Times.Never);
       _mockiBookingRepository.Verify(x => x.Save(It.IsAny<BookingService.Booking>()
         , It.IsAny<BookingService.Guest>()), Times.AtLeastOnce);
     }
@@ -295,10 +295,10 @@ namespace XUnitTestProject1
         Title = "SpringPojke"
       };
 
-      _mockiBookingRepository.Setup(x => x.ReEnterBookingInformation(It.IsAny<string>())).Throws<Exception>();
+      _mockiBookingRepository.Setup(x => x.ReEnterGuestInformation(It.IsAny<string>())).Throws<Exception>();
       _sut.AddGuestToBooking(Guid.NewGuid(), addedGuest);
 
-      _mockiBookingRepository.Verify(x => x.ReEnterBookingInformation(It.IsAny<string>()), Times.Never);
+      _mockiBookingRepository.Verify(x => x.ReEnterGuestInformation(It.IsAny<string>()), Times.Never);
       _mockiBookingRepository.Verify(x => x.Save(It.IsAny<BookingService.Booking>()
         , It.IsAny<BookingService.Guest>()), Times.AtLeastOnce);
     }

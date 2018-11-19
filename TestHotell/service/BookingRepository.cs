@@ -11,10 +11,11 @@ namespace TestHotell.service
 
     public bool Save(BookingService.Booking booking, BookingService.Guest gust)
     {
+      //add a new guest to array of guest
       return true;
     }
 
-    public string ReEnterBookingInformation(string message)
+    public string ReEnterGuestInformation(string message)
     {
       return message;
     }

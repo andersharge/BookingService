@@ -32,3 +32,20 @@ C:\Users\S5362B\Desktop\New folder (4)\TestHotell\XUnitTestProject1\obj\Debug\ne
 C:\Users\S5362B\Desktop\New folder (4)\TestHotell\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
 C:\Users\S5362B\Desktop\New folder (4)\TestHotell\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
 C:\Users\S5362B\Desktop\New folder (4)\TestHotell\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\TestHotell.dll
+C:\Training\BookingService\XUnitTestProject1\bin\Debug\netcoreapp2.1\TestHotell.pdb
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Training\BookingService\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb

@@ -66,7 +66,7 @@ namespace TestHotell.service
 
         if (!CheckRoomTypeAndNumberOfGuest(getNumberOfGuest, roomTyp))
         {
-          error = _iBookingRepository.ReEnterBookingInformation($"Tyvärr fungerar inte rummet med {getNumberOfGuest} gäster");
+          error = _iBookingRepository.ReEnterGuestInformation($"Tyvärr fungerar inte rummet med {getNumberOfGuest} gäster");
         }
 
         var currentCountryCode = currentBooking.Hotel.CountryCode.ToString();
@@ -74,7 +74,7 @@ namespace TestHotell.service
      
         if (string.IsNullOrEmpty(title) && currentCountryCode == "DE")
         {
-          error = _iBookingRepository.ReEnterBookingInformation($"Titel är obligatorisk på tyska gäster");
+          error = _iBookingRepository.ReEnterGuestInformation($"Titel är obligatorisk på tyska gäster");
         }
 
         var getTitels = NameTitle();
@@ -83,7 +83,7 @@ namespace TestHotell.service
         {
           if (!(getTitels.Any(x => x.Item1 == title && x.Item3)))
           {
-            error = _iBookingRepository.ReEnterBookingInformation($"Tyska hotell måste ha följande titel på gästen");
+            error = _iBookingRepository.ReEnterGuestInformation($"Tyska hotell måste ha följande titel på gästen");
           }
 
         }

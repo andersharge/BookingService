@@ -6,6 +6,6 @@ namespace TestHotell.service
   {
     BookingService.Booking GetBooking(Guid guid);
     bool Save(BookingService.Booking booking, BookingService.Guest gust);
-    string ReEnterBookingInformation(string message);
+    string ReEnterGuestInformation(string message);
   }
 }
